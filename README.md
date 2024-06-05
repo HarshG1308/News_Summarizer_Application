@@ -35,12 +35,12 @@ News Summarizer is a Python application that retrieves an article from a URL and
 
 3. **Run the Application**:
    ```bash
-   python news_summarizer.py
+   python main.py
    ```
 
 ## Usage
 
-1. Launch the application by running `news_summarizer.py`.
+1. Launch the application by running `main.py`.
 2. Enter the URL of the news article you want to summarize.
 3. Click on the "Summarize" button to generate the summary and sentiment analysis.
 4. The application will display the article's title, authors, publication date, summary, and sentiment analysis.
