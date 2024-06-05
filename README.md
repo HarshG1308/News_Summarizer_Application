@@ -23,7 +23,7 @@ News Summarizer is a Python application that retrieves an article from a URL and
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/news-summarizer.git
+   git clone https://github.com/HarshG1308/News_Summarizer_Application
    cd news-summarizer
    ```
 
@@ -56,10 +56,6 @@ News Summarizer is a Python application that retrieves an article from a URL and
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgements
 
